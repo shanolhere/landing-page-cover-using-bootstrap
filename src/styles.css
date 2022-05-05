@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Revalia&display=swap");
+*,
+*:before,
+*:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: sans-serif;
+}
+
+body {
+  background: url("https://media.istockphoto.com/photos/cup-glass-of-coffee-with-smoke-and-coffee-beans-on-old-wooden-picture-id1303583671?b=1&k=20&m=1303583671&s=170667a&w=0&h=Nq5aWss-PVbEm5jDIa0nTf35qsxQH8znqtX9MAU5__A=")
+    no-repeat center center fixed;
+  background-size: cover;
+}
+
+.hero {
+  margin-top: 12%;
+  color: #fff;
+  font-size: 75px;
+  font-family: "Revalia", cursive;
+  text-align: center;
+  margin-bottom: 8px;
+}
+span {
+  color: brown;
+}
+
+.ima {
+  width: 220px;
+}
